@@ -7,6 +7,7 @@ Contact me here: </br>
 ## 💭 About Me
 
 -  I'm pursuing my AS's degree at FATEC Zona Sul.
+-  Studying Web Development at [The Odin Project](https://www.theodinproject.com/).
 -  I’m currently working on:
   
 <p>
@@ -17,7 +18,7 @@ Contact me here: </br>
 
 ## 💻 Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikovlr&layout=compact&theme=github_dark)](https://github.com/aikovlr/github-readme-stats) </br>
-![aikovlr's Stats](https://github-readme-stats.vercel.app/api?username=aikovlr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) </br>
+![aikovlr's Stats](https://github-readme-stats.vercel.app/api?username=aikovlr&theme=github_dark&show_icons=true&hide_border=true&count_private=true) </br>
 
 ## 🌱 Currently Exploring
 
