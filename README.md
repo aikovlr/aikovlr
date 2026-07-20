@@ -6,11 +6,6 @@ Contact me here: </br>
 ## 💭 About Me
 I am a Systems Analysis and Development student interested in technology, software development, and creating digital solutions. I am constantly interested in improving my knowledge and turning ideas into functional and efficient applications. Currently, I am developing my skills in programming, web development, databases, and software architecture.
 
-## 🌱 Currently Exploring
--  Studying both Front and Back-end development, currently focusing on:
-    - Exploring the world of React, Bootstrap and TypeScript for dynamic front-end experience
-    - Diving into Web API with C#, .NET enviroment for a scalable, well structured back-end & into PostgreSQL for efficient and scalable database management.
-
 ## ⚙️ Projects
 [![Cortex](https://img.shields.io/badge/Cortex-Task%20Management-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aikovlr/Cortex)
 [![Cortex Backend](https://img.shields.io/badge/Cortex%20Backend-API-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aikovlr/Cortex-backend)
