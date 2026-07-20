@@ -8,7 +8,7 @@ I am a Systems Analysis and Development student interested in technology, softwa
 
 ## ⚙️ Projects
 [![Cortex](https://img.shields.io/badge/Cortex-Task%20Management-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aikovlr/Cortex)
-[![Cortex Backend](https://img.shields.io/badge/Cortex%20Backend-API-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aikovlr/Cortex-backend)
+[![Cortex Backend](https://img.shields.io/badge/Cortex%20Backend-CSharp%20API-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aikovlr/Cortex-backend)
 [![Hermes](https://img.shields.io/badge/Hermes-Condominium%20Delivery%20System-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseFreires/Hermes-FrontEnd)
 [![FURIA Chatbot](https://img.shields.io/badge/FURIA%20Chatbot-Telegram%20Bot-4c8eda?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/aikovlr/chatbot_furia)
    
